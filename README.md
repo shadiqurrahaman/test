@@ -1,4 +1,4 @@
-
+#                               Documentation   
 ## Task 1
  Task one contains 2 script file written in bash. These scripts are to automate the installation process of docker. This script pulls and installs the latest version of of docker. If it find the docker is already installed and its version if it is old then this script will remove the the older version of docker and will install the latest version of docker. After installing the docker successfully the script will pull `Elasticsearch` and Kibana `Docker` image. 
 
