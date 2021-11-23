@@ -9,7 +9,6 @@
 4. Inside the folder run the script: `Sudo ./docker_install.sh`
 
 **Verify:**
-
 Open a new terminal and put `sudo docker pa -a` . if it run properly the everything is working fine
 
 ## Task 2
@@ -22,8 +21,8 @@ This task contain a single script which run `Elasticsearch` on **port:2048** and
 3. Run the script by `sudo ./run_elasticSearch_and_kibana.sh`
 4. Wait for a while to gets things ready 
 5. Navigate to browser [http://localhost:4096](http://localhost:4096)
-**Verify:**
 
+**Verify:**
 http://localhost:4096 address will navigate to the Dashboard
 
 ## Task 3
