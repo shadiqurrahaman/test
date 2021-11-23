@@ -9,7 +9,7 @@
 4. Inside the folder run the script: `sudo ./docker_install.sh`
 
 **Verify:**
-Open a new terminal and put `sudo docker pa -a` . if it run properly the everything is working fine
+Open a new terminal and put `sudo docker ps -a` . if it run properly the everything is working fine
 
 ## Task 2
 
