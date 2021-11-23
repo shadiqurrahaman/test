@@ -14,8 +14,8 @@ Open a new terminal and put `sudo docker pa -a` . if it run properly the everyth
 ## Task 2
 
 This task contain a single script which run `Elasticsearch` on **port:2048** and `Kibana` on **port:4096**
-**Run Script:**
 
+**Run Script:**
 1. Navigate to the folder of task_2  `cd task_2`
 2. Give the script executable permission by `chmod +x run_elasticSearch_and_kibana.sh`
 3. Run the script by `sudo ./run_elasticSearch_and_kibana.sh`
