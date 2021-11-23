@@ -27,6 +27,7 @@ http://localhost:4096 address will navigate to the Dashboard
 
 ## Task 3
 In this task, python scripts will push data to our previously running Elasticsearch. That script will push 10 student data within five-minute boundaries.
+
 **Run Script:**
 1. Navigate to the python folder `cd task_3`
 2. Activate the Python environment: `source my-env/bin/activate`
