@@ -6,7 +6,7 @@
 1. Keep both script on the same folder
 2. Navigate to the folder with `cd task_1`
 3. Give the script executable permission `chmod +x docker_install.sh docker_install_process.sh`
-4. Inside the folder run the script: `Sudo ./docker_install.sh`
+4. Inside the folder run the script: `sudo ./docker_install.sh`
 
 **Verify:**
 Open a new terminal and put `sudo docker pa -a` . if it run properly the everything is working fine
