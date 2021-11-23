@@ -38,6 +38,7 @@ def runjob():
 check_schema = gs.check_schema()
 
 if check_schema:
+    runjob()
     schedule.every(5).minutes.do(runjob)
     while True:
         schedule.run_pending()
