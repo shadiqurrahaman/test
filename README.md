@@ -31,7 +31,8 @@ In this task, python scripts will push data to our previously running Elasticsea
 **Run Script:**
 1. Navigate to the python folder `cd task_3`
 2. Activate the Python environment: `source my-env/bin/activate`
-3. Simply run the `python run_schedular.py`
+3. install `pip install requirements.txt`
+4. Simply run the `python run_schedular.py`
 
 **Verify:**
 Student data will be shown on the Terminal
